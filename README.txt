@@ -1,3 +1,8 @@
+Version 1.0.11
+Date 10/3/2023
+
+- All the firmwares are unified
+
 Version 1.3.1
 Date 8/2/2023
 
